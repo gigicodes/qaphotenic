@@ -91,7 +91,7 @@ body {
   margin-top: -5px;
 }
 .nav-content {
-    width: 40%;
+    width: 50%;
     color: #fff;
     text-align: center;
     position: absolute;
@@ -267,12 +267,12 @@ body {
   font-family: "Montserrat" , serif;
 } 
 .contact-text {
-  width: 50%;
+  width: 60%;
   line-height: 25px;
   padding-top: 40px;
 }
 .contact-text h3, p {
-  width: 50%;
+  width: 60%;
 }
 .contact-text h3 {
   padding-top: 40px;
@@ -407,7 +407,7 @@ footer .container-fluid {
   }
   .contact-text h3 {
     line-height: 40px;
-  }
+    }
   .row .contact-text, .form-control {
     padding: 30px ;
     width: 100%;
